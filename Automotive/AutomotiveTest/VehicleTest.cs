@@ -13,4 +13,15 @@ public class VehicleTest
         //assert
         Assert.AreEqual(5, v.DoorQuantity);
     }
+    
+    [TestMethod]
+    [ExpectedException(typeof(ArgumentException))]
+    public void DoorQuantitySet_InvalidLessThan0Doors()
+    {
+        //arrange
+        Vehicle v;
+        //act
+        v = new Vehicle(-4, "red");
+        //assert
+    }
 }
