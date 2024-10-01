@@ -1,0 +1,12 @@
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\bin\Debug\net6.0\Automotive.deps.json
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\bin\Debug\net6.0\Automotive.dll
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\bin\Debug\net6.0\Automotive.pdb
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.csproj.AssemblyReference.cache
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.AssemblyInfoInputs.cache
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.AssemblyInfo.cs
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.csproj.CoreCompileInputs.cache
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.dll
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\refint\Automotive.dll
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\Automotive.pdb
+C:\Users\alfos\OneDrive\Documents\GitHub\DA1_Lab\Automotive\Automotive\obj\Debug\net6.0\ref\Automotive.dll

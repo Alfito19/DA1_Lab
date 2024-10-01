@@ -1,4 +1,4 @@
-namespace Automotive;
+﻿namespace Automotive;
 
 public class Vehicle
 {
@@ -15,5 +15,4 @@ public class Vehicle
     {
         Console.WriteLine("Remember to override this method to print the correct information");
     }
-
 }

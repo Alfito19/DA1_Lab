@@ -1,4 +1,4 @@
-﻿namespace Automotive;
+namespace Automotive;
 
 public class Car : Vehicle
 {

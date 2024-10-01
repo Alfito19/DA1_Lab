@@ -8,6 +8,6 @@ public class Truck : Vehicle
 
     public override void TurnOn()
     {
-        Console.WriteLine($"This truck is of color {{Color}} and has {DoorQuantity} doors");
+        Console.WriteLine($"This truck is of color {Color} and has {DoorQuantity} doors");
     }
 }
