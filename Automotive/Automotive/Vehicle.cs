@@ -2,8 +2,21 @@
 
 public class Vehicle
 {
-    public int DoorQuantity { get; set; }
+    public int DoorQuantity { get=>DoorQuantity;
+        set
+        {
+            if (value <= 0)
+            {
+                throw new ArgumentException("DoorQuantity cannot be less or equal to 0.");
+            }
+            DoorQuantity = value;
+        } }
     public string Color { get; set; }
+
+    public string Info
+    {
+        get => $"Color {Color}, Door {DoorQuantity}";
+    }
 
     public Vehicle(int doorQuantity, string color)
     {
