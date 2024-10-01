@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alfos\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfos\\OneDrive\\Documents\\GitHub\\DA1_Lab\\Automotive\\Automotive\\Automotive.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Facultad\\4to Semestre\\DA1\\Tecnologias\\DA1_Lab\\Automotive\\Automotive\\Automotive.csproj",
       "projectName": "Automotive",
-      "projectPath": "C:\\Users\\alfos\\OneDrive\\Documents\\GitHub\\DA1_Lab\\Automotive\\Automotive\\Automotive.csproj",
-      "packagesPath": "C:\\Users\\alfos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfos\\OneDrive\\Documents\\GitHub\\DA1_Lab\\Automotive\\Automotive\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Facultad\\4to Semestre\\DA1\\Tecnologias\\DA1_Lab\\Automotive\\Automotive\\Automotive.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Facultad\\4to Semestre\\DA1\\Tecnologias\\DA1_Lab\\Automotive\\Automotive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alfos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Admin\\.dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
       }
     }
   }

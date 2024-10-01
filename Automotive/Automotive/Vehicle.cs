@@ -2,15 +2,17 @@
 
 public class Vehicle
 {
-    public int DoorQuantity { get=>DoorQuantity;
+    private int _doorQuantity;
+    public int DoorQuantity { get=>_doorQuantity;
         set
         {
             if (value <= 0)
             {
                 throw new ArgumentException("DoorQuantity cannot be less or equal to 0.");
             }
-            DoorQuantity = value;
-        } }
+            _doorQuantity = value;
+        }
+    }
     public string Color { get; set; }
 
     public string Info
